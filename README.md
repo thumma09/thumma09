@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mary Lavanya</h1>
-<h3 align="center">Data Analyst | 3+ Years Experience in SQL, Advanced Excel,Power BI,Tableau,Python</h3>
+<h1 align="center">Hi 👋, I'm Mary Thumma</h1>
+<h3 align="center">Data Engineer | 5+ Years Experience in SQL,Python, AWS, GCP, Azure, Apache Kafka</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/thumma09](https://github.com/thumma09)
-
-- 📫 How to reach me **marylavanya97@gmail.com**
+- 📫 How to reach me **marythumma22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lavanyathumma26@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavanyathumma26@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marythumma22@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marythumma22@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
